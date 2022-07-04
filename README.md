@@ -1,9 +1,4 @@
-### Hi there 👋
 
-
-**abdalla12002/abdalla12002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a freelance .Net developer
 - 🌱 I’m currently learning Internet of robotic things
@@ -31,7 +26,12 @@ Developing solutions using Microsoft .NET technology using the following:
     Xamarin
     SQLite
     Entity Framework Core
-    MVVM  Database analysis and design  Using business objects and implementing the CSLA framework.  Good Knowledge of Object-Oriented and N-Tier Concepts.  Good Knowledge of administrative and financial business.  Experience and knowledge in Software Architecture and Design.
+    MVVM 
+    Database analysis and design 
+    Using business objects and implementing the CSLA framework. 
+    Good Knowledge of Object-Oriented and N-Tier Concepts. 
+    Good Knowledge of administrative and financial business. 
+    Experience and knowledge in Software Architecture and Design.
 
 RELEVANT EXPERIENCE
 
